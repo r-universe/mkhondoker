@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "optBiomarker"]
 	path = optBiomarker
 	url = https://github.com/cran/optBiomarker
-	shallow = true
-	registered = true
