@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "optBiomarker"]
 	path = optBiomarker
-	url = https://github.com/cran/optBiomarker
+	url = https://github.com/mkhondoker/optbiomarker
